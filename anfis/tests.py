@@ -1,7 +1,7 @@
 import anfis
-from anfis.membership import membershipfunction, mfDerivs
+from reco_formes.anfis.membership import membershipfunction, mfDerivs
 import numpy
-from anfis.anfis import ANFIS
+from reco_formes.anfis.anfis import ANFIS
 
 ts = numpy.loadtxt("/Users/clementsiegrist/untitled7/venv/bin/python/lib/python3.7/site-packages/anfis/trainingSet.txt", usecols=[1,2,3])#numpy.loadtxt('c:\\Python_fiddling\\myProject\\MF\\trainingSet.txt',usecols=[1,2,3])
 X = ts[:,0:2]
