@@ -1,2 +1,1 @@
-import anfis
-from anfis.membership import mfDerivs, membershipfunction
+from reco_formes.anfis.membership import mfDerivs, membershipfunction
