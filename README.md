@@ -14,9 +14,9 @@ provided in the repository Fuzzy_and_Deep_Fuzzy_Logic.pdf [here](https://github.
 
 **II. Fuzzy-Cmeans**
 
-*II. A. Fuzzy-Cmeans on a greyscale image*
-*II. B. Fuzzy-Cmeans on a RGB image*
-*II. C. Fuzzy-CMeans with fcmeans library*
+- *II. A. Fuzzy-Cmeans on a greyscale image*
+- *II. B. Fuzzy-Cmeans on a RGB image*
+- *II. C. Fuzzy-CMeans with fcmeans library*
 
 **III. ANFIS : Adaptative Neuro-Fuzzy Inference Systems**
 
