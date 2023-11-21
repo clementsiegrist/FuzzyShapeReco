@@ -1,4 +1,3 @@
-# reco_formes
 ## Fuzzy and Deep-Fuzzy Logic for image clustering and time series processing
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clementsiegrist/reco_formes/blob/main/Fuzzy_models.ipynb)
